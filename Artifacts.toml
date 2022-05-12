@@ -1,0 +1,20 @@
+[[Chemfiles]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f61ca4c38c76d571fff385b9d3aa106d1027b621"
+libc = "glibc"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "30564846a8a3a0b5881c457994104824d4373c7fa1f4361da0358fcb429d4989"
+    url = "https://github.com/local/releases/download/Chemfiles-v0.10.2+1/Chemfiles.v0.10.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Chemfiles]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f4cdf95d613e4a2921318727242d8cbbb44b7dd4"
+libc = "glibc"
+os = "linux"
+
+    [[Chemfiles.download]]
+    sha256 = "9b53d19ac8112f0dad5c776e40322162740d01ae03ac5885b446371c420c31d1"
+    url = "https://github.com/local/releases/download/Chemfiles-v0.10.2+1/Chemfiles.v0.10.2.x86_64-linux-gnu-cxx11.tar.gz"
